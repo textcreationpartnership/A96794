@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Wjt's progresse: wherein are launc't the various crimes, are incident to these sad times. Chapmen quickly come and buy me, if y' are wise, youle not deny me. Wit is cheapned, wit is sought, but wits neare good till it be bought. / The author Democritus Junior.</title>
+            <author>Democritus, Junior, fl. 1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96794</idno>
+            <idno type="STC">Wing W3221</idno>
+            <idno type="STC">Thomason E407_44</idno>
+            <idno type="STC">ESTC R204661</idno>
+            <idno type="EEBO-CITATION">99864127</idno>
+            <idno type="PROQUEST">99864127</idno>
+            <idno type="VID">160533</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96794)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160533)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E407[44])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Wjt's progresse: wherein are launc't the various crimes, are incident to these sad times. Chapmen quickly come and buy me, if y' are wise, youle not deny me. Wit is cheapned, wit is sought, but wits neare good till it be bought. / The author Democritus Junior.</title>
+                  <author>Democritus, Junior, fl. 1647.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>This Democritus Junior is not Robert Burton, who also used the pseudonym.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  17th century.</term>
+               <term>Religious satire, English --  17th century.</term>
+               <term>Great Britain --  Politics and government --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160533:1" rendition="simple:additions"/>
+            <p>
+               <hi>WJT'S</hi> PROGRESSE:
+<q>
+                  <lg>
+                     <l>Wherein are launc't the various crimes,</l>
+                     <l>Are incident to theſe ſad times.</l>
+                  </lg>
+                  <lg>
+                     <l>Chapmen quickly come and buy me,</l>
+                     <l>Jf y' are wiſe, youle not deny me.</l>
+                  </lg>
+                  <lg>
+                     <l>Wit is cheapned, wit is ſought,</l>
+                     <l>But wits neare good till it be bought.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>The Author <hi>Democritus Junior.</hi>
+            </p>
+            <p>Printed in the yeare, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160533:2"/>
+            <pb n="1" facs="tcp:160533:2"/>
+            <head>Wit's Progreſſe.</head>
+            <p>I Have not (as the Phyloſopher of old did) wandred up and downe Athens, with a candle and lanthorne at noone day, to finde out an honeſt man, (as if his in<g ref="char:EOLhyphen"/>tention had bin to add light &amp; ſplendor to the glorious eye of heave<g ref="char:cmbAbbrStroke">̄</g>, that was a little to cynical; my purpoſe hath been more charita<g ref="char:EOLhyphen"/>ble, yet truſt me in theſe times, I think it a kind of an herculean labour; every man I meet with cries out of the badneſſe of the times, when moſt men have a hand in making them as they are.</p>
+            <p>Let every man begin his own worke, and correct his own errors, and we ſhall quickly find an alteration in the amendment of the times.</p>
+            <p>Firſt to begin with the geat Phyſitians of the body politque (who have almoſt ſerved a prentiſhip in finding out a cure) they per<g ref="char:EOLhyphen"/>ſwading themſelves that ſhe was ſicke of a
+<pb n="2" facs="tcp:160533:3"/>Plethora, ſtrook a veine, but let her bleed to much, but I am confident by ſucceeding paſſages, they willingly miſtooke the right veine, and ſo drew ſome of her vitalls, by which meanes ſhe hath thus long laboured with a conſumption. And the reaſon may be thus, they dealt with her (as the Empericks of this age deale with their patients, whom they finde to be rich and able they procraſti<g ref="char:EOLhyphen"/>nate their cure from day to day, untill they have drawn their patients purſe as empty of crownes, as their bodies of humours, of both ſo much as the party hardly ever recovers.</p>
+            <p>I do not ſay it is thus, my fears, and the Kingdomes (eſpecially of the honeſter part) have to much reaſon to ſuſpect it.</p>
+            <p>Thus having glanc't ſuperficially upon the body of the Common-wealth, and the dangerous eſtate ſhe now continues in, let me reflect upon the religious part (the ſoule which is religion) this hath been purged off her leggs too; this, this glorious worke, the ſtructure of many ages, falling into the hand of doating ignorance, is utterly throwne to the ground, and there lyes panting for
+<pb n="3" facs="tcp:160533:3"/>breath. They have dealt with her (like ig<g ref="char:EOLhyphen"/>norant artiſes) into whoſe hands, ſome curi<g ref="char:EOLhyphen"/>ous clock, or watch, hath accidentally fallen, who to obſerve the curioſity of the worke<g ref="char:EOLhyphen"/>manſhip have taken it to pieces, but are in a labyrinth of errour: not knowing which way to ſet it together again.</p>
+            <p>There is another ſort who ſerve as an Ap<g ref="char:EOLhyphen"/>pendix to this Reformation, whom we may ſtile the corn-cutters of Religion, or the Lee<g ref="char:EOLhyphen"/>ches of the Common-wealth (I meane Countrey Committees) theſe have a hand dyde deepe in the purple gore of the King<g ref="char:EOLhyphen"/>dom, under pretence of doing good too.</p>
+            <p>I ſhall give you a ſtory in Worceſter, there was not long ſince a large heape of ſtones, which ſuffered under the hated appellation of the croſſe (though otherwiſe an indigeſt<g ref="char:EOLhyphen"/>ed heap of ſtones, which age had made de<g ref="char:EOLhyphen"/>crepit, and worne out of form; this poore croſſe, for ſo they ſtil'd it, was arraigned and condemned to perpetuall
+<note n="*" place="margin">They have built a gate to the pri<g ref="char:EOLhyphen"/>ſon with the ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to keep in honeſ<g ref="char:EOLhyphen"/>ter men the<g ref="char:cmbAbbrStroke">̄</g> they keep out.</note> impriſonment, before ever it was permitted to ſpeak a word for it ſelfe, and could their faith have flowne ſteeple hight, the poore croſs which ſupports
+<pb n="4" facs="tcp:160533:4"/>the Weathercocke had ſuffered Martyrdom with her ſiſter; but thanks to providence for placing it out of their reach: but you may ſee they had a notable ſtomach to it by their
+<note n="*" place="margin">They dealt with the lit<g ref="char:EOLhyphen"/>tle Croſſes upon the bat<g ref="char:EOLunhyphen"/>tlements as Surgeons do with burnt — pared off their heads and left the ſtumps ſtan<g ref="char:EOLhyphen"/>ding only.</note> nibling at the battlements. This poore ſtructure which hath ſtood long in ſpight of rough Boreas blaſts, was over<g ref="char:EOLhyphen"/>throwne by the poyſonous breath of a bum<g ref="char:EOLhyphen"/>kin Committee.</p>
+            <p>There is an old ſaying that three Taylors goe to the making of a man, I am confident that three times three, (if they are no better then ſome I have known) and a whole coun<g ref="char:EOLhyphen"/>try Committee will ſcarce make an honeſt man. Some there are amongſt them whoe have a graine of honeſty more then others, who ſerve as Gingerbread to ſtuffe up the Fayre, whom want of meanes, or wit, or both, hath drawne into the croud; but let them paſſe, whilſt I ſteere to the City, (the grand magazine of all folly) there is not ſuch a Fayre in Europe for all pedlers of Religion to ſell off their fantaſtick toyes in. Let them ſet up what ſtandings they will, no body contradicts them, and the good eaſy ſoft
+<pb n="5" facs="tcp:160533:4"/>hearted Women fall back to them let their Comodities be what they will; there is ſuch a rutting at theſe private meeetings and con<g ref="char:EOLhyphen"/>venticles, that (I am confident) he that is not a Cuckold or a baſtard amongſt them is a ſtrangly happy man. Certainly the people of this Iſland are growne very deafe in theſe latter yeares, they delight ſo in noiſe; for un<g ref="char:EOLhyphen"/>leſſe their pulpit thumping Miniſters can out of their ſweating zeale, waſt 2 houres ſand in rayling againſt royall Government, in a tone would deafe Marriners in a ſtorm, he is not a man thought fit to goe in and out be<g ref="char:EOLhyphen"/>fore the Siſters.</p>
+            <p>Laerna hath not ſo many Monſters nor Hydra heads, as there are of theſe theating impoſters in every corner and nooke of the the City. Theſe are ſtipendiaries to the good women, if they are found to be able Men. Strange impudency! when Religion is made but a cloake, to hide baudry! I could wiſh ſome other climate, diſtant far enough had theſe helliſh monſters, but that I would not name Derricke, becauſe he is a good Com<g ref="char:EOLhyphen"/>mon-wealths-man.
+<pb n="6" facs="tcp:160533:5"/>And ſince I know it to be the cuſtome of England to goe ſinging from the Gal<g ref="char:EOLhyphen"/>lowes to the grave, in hopes they will mend before they end, I have penned their Recantation.</p>
+            <q>
+               <lg>
+                  <l>From the tyrany of the <hi>Turke</hi> and the Antichriſtian <hi>Pope,</hi>
+                  </l>
+                  <l>From all traytors in <hi>England</hi> that deſerve a rope,</l>
+                  <l>Give them but halter and theyle hang themſelves we hope.</l>
+                  <l>
+                     <hi>Good Dericke deliver us.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>From the giddy Crow whoſe cheife intent,</l>
+                  <l>Is to ſubvert the Church and Royall Government,</l>
+                  <l>From a bumkin Committee, and an everlaſting Parliament.</l>
+                  <l>
+                     <hi>Good, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>From a Siſters <hi>nunquam ſatis</hi> and all private Conventi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>les.</l>
+                  <l>Where a man ſhall labour till the ſweat downe trickles,</l>
+                  <l>A game they love better then they love their victuals,</l>
+                  <l>
+                     <hi>Good &amp;c,</hi>
+                  </l>
+               </lg>
+            </q>
+            <trailer>FJNJS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
